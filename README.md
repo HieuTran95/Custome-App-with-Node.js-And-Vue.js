@@ -12,7 +12,9 @@ Additional Guidelines Your Node.js server is responsible communicating with your
 API interactions should go through the server.
 Database transactions should go through the server.
 Socket messages should go through the server.
-Vue Requirements
+
+
+ # Vue Requirements
 App & Components The Vue frontend should have at least (1) component.
 
 CSS The Vue frontend should be styled. Use a css framework (bootstrap, materilize) or create your own custom styles.
